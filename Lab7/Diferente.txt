@@ -1,0 +1,6 @@
+Kruskal și Prim sunt algoritmi folosiți pentru a găsi un arbore de acoperire minim într-un graf conectat și ponderat. Ambele algoritmi au avantajele și dezavantajele lor.
+Un avantaj al algoritmului Kruskal este că poate fi folosit pe grafuri neconectate pentru a găsi o pădure de acoperire minimă. Un dezavantaj este că poate fi mai lent decât algoritmul Prim pentru grafuri dense.
+Un avantaj al algoritmului Prim este că poate fi mai rapid decât algoritmul Kruskal pentru grafuri dense. Un dezavantaj este că poate fi folosit doar pe grafuri conectate.
+În cele din urmă, alegerea între Kruskal și Prim depinde de problema specifică.
+Pentru Krushall pe graficul dat algoritmul a durat: 381 milisecunde
+Iar pentru Prim: 402 milisecunde
